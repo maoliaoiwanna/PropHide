@@ -1,0 +1,8 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+ro.debuggable=0
+ro.force.debuggable=0
+ro.boot.verifiedbootstate=green
+ro.boot.vbmeta.device_state=locked
+ro.boot.flash.locked=1
